@@ -1,0 +1,31 @@
+id,value,color
+OpenGround.LocationDetails
+OpenGround.GeologyCode3
+OpenGround.Weathering
+OpenGround.CaliforniaBearingRatioTestsData
+OpenGround.CompactionTestsData
+OpenGround.
+OpenGround.CompactionTestsGeneral
+OpenGround.CompactionTestsGeneralAssumedExcluded
+OpenGround.CompactionTestsGeneralAssumedIncluded
+OpenGround.GeotechnicalChemistryTesting
+OpenGround.
+OpenGround.
+OpenGround.
+OpenGround.
+OpenGround.TotalPotentialSulphates
+OpenGround.AcidSolubleSulphates
+OpenGround.OxidisableSulphates
+OpenGround.GeotechnicalChemistryTestingStats
+OpenGround.LiquidAndPlasticLimitTests
+OpenGround.
+OpenGround.
+OpenGround.LiquidAndPlasticLimitTestsStats
+OpenGround.MCVTestsData
+OpenGround.MoistureContentTests
+OpenGround.ParticleSizeDistributionAnalysisData
+OpenGround.Triaxial Tests Total Stress Data
+OpenGround.AirVoidRatioModified
+OpenGround.Datasource Notes
+OpenGround.TimeTable
+OpenGround.Weathering Class Notes
